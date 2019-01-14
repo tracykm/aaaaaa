@@ -1,0 +1,28 @@
+{
+    "asset_types": [
+        "Devices",
+        "Edges",
+        "Roles",
+        "Users"
+    ],
+    "author": {
+        "email": "t@m.com"
+    },
+    "clouds": [],
+    "description": "test",
+    "domains": [],
+    "gateways": [],
+    "image_url": "https://docs.clearblade.com/v/3/static/img/default_package.png",
+    "keywords": [
+        "clearblade",
+        "iot",
+        "platform"
+    ],
+    "license": "MIT",
+    "name": "aaaaaa",
+    "private": false,
+    "prog_lang": [],
+    "protocols": [],
+    "things": [],
+    "version": "1.0.0"
+}
