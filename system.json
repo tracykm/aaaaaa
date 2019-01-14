@@ -1,0 +1,10 @@
+{
+    "auth": true,
+    "deployments": [],
+    "description": "",
+    "messaging_url": "platform.clearblade.com:1883",
+    "name": "aaaaaa",
+    "platform_url": "https://staging.clearblade.com",
+    "system_key": "fef0e5c30bb0dff5c6ede2cdc431",
+    "system_secret": ""
+}
